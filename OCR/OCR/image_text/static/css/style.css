@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+.screen {
+    background-color: grey;
+    height: 50%;
+    width: 100px;
+    padding: 300px;
+    border-radius: 5%;
+    display: inline-block;
+}
+
+.section {
+    text-align: center;
+    align-items: center;
+}
+
+.btnArea {
+    font-size: 40%;
+    color: whitesmoke;
+    align-items: center;
+    padding: 3%;
+    margin: 100px;
+}
+
+#camera {
+    font-size: 45;
+    padding: 20px;
+    border-radius: 30px;
+    padding: 3px;
+}
+
+#camera:hover {
+    background-color: darkcyan;
+}
+
+#file {
+    font-size: 45;
+    padding: 20px;
+    border-radius: 30px;
+    padding: 3px;
+}
+
+#file:hover {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: white;
+}
